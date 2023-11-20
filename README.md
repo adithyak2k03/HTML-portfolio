@@ -1,3 +1,3 @@
 # HTML-portfolio
 
-This is an experimental program to check hosting on github pages. 
+This is an experimental program to understand hosting on github pages. 
